@@ -1,0 +1,15 @@
+terraform command
+
+terraform show
+terraform refresh
+terraform plan 
+terraform --help 
+terraform apply --auto-approve
+terraform destroy 
+terraform init
+
+terraform validate
+terraform console
+terraform fmt for code aligment
+
+terrafomr taint key.key
